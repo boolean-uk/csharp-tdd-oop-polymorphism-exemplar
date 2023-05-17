@@ -19,7 +19,6 @@ namespace Products
         }
 
         public int Price => _price;
-
         public string Name => _name;
 
     }

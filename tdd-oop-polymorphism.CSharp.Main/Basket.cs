@@ -17,7 +17,6 @@ namespace tdd_oop_polymorphism.CSharp.Main
         }
 
 
-
         public int getTotal()
         {
             return products.Sum(x => x.Price);
